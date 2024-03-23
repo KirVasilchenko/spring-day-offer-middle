@@ -31,4 +31,8 @@ public class Employee {
     public List<Task> getTasks() {
         return tasks;
     }
+
+    public Integer getId() {
+        return id;
+    }
 }
